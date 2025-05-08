@@ -10,3 +10,6 @@ docker run -d --name ollama \
 
 ```
 # 模型安装
+```
+ollama create qwen2.5-3b -f Modelfile
+```
